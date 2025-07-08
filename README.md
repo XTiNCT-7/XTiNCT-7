@@ -4,10 +4,10 @@
 
 ### 💡 About Me
 - 🔧 3+ years of experience in software engineering
-- 🌐 Specializing in **React**, **Angular**, **Java Spring Boot**, and **TypeScript**
+- 🌐 Specializing in **React**, **Java Spring Boot**, and **JavaScript**
 - 🧠 Building an **AI-powered product comparison chatbot** using Hugging Face + React
 - 🌱 Currently learning **AWS Cloud** and enhancing DevOps skills
-- ☁️ Experienced with **Azure Functions** and **Logic Apps**
+- ☁️ Experienced with **Azure Function App** and **Azure Logic Apps**
 - ⚡ Passionate about clean code, scalable APIs, and performance optimization
 
 ### 🚀 Projects
