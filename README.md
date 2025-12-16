@@ -3,7 +3,7 @@
 ## 🧑‍💻 Full-Stack Developer | Cloud Developer
 
 ### 💡 About Me
-- 🔧 3+ years of experience in software engineering
+- 🔧 3.5 years of experience in software engineering
 - 🌐 Specializing in **React**, **Java Spring Boot**, and **JavaScript**
 - 🧠 Building an **AI-powered product comparison chatbot** using Hugging Face + React
 - 🌱 Currently learning **AWS Cloud** and enhancing DevOps skills
@@ -13,14 +13,15 @@
 ### 🚀 Projects
 - 🧠 **AI Chatbot** – Product comparison chatbot using Hugging Face + FastAPI backend
 - 🌐 **Portfolio Website** – React + Vite + TSX, deployed on Vercel  
-- 🔗 **Azure Integrations** – Logic Apps + Service Bus for event-driven workflows  
+- 🔗 **Azure Integrations** – Azure Functions + Azure Logic Apps + multiple services 
 - 🧪 **FastAPI App** – Authentication and REST APIs with token-based security
 
 ### 🛠️ Tech Stack
-**Frontend:** React, Angular, TypeScript, Vite  
+**Frontend:** React, TypeScript, Vite  
 **Backend:** Java Spring Boot, FastAPI, Python  
-**Cloud:** Azure (Functions, Logic Apps), Learning AWS  
-**DevOps:** GitHub Actions, Vercel, Postman  
+**Cloud:** Azure, Learning AWS  
+**DevOps:** GitHub, Azure DevOps
+**Mobile:** Kotlin (Jetpack Compose), React Native with expo
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtinct-7&show_icons=true&theme=radical)
