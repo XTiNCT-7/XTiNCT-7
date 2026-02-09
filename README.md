@@ -24,12 +24,12 @@
 **Mobile:** Kotlin (Jetpack Compose), React Native with expo
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XTiNCT-7&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XTiNCT-7&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=XTiNCT-7&theme=radical)
+[![XTiNCT's GitHub stats](https://github-readme-stats.vercel.app/api?username=XTiNCT-7)](https://github.com/xtinct-7/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtinct-7&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=xtinct-7&theme=radical)
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=XTiNCT-7&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=xtinct-7&theme=onedark)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ramprakash-nadar-b80199216/)
